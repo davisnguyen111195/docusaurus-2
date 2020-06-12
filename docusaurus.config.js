@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Thư viện chủ nghĩa khắc kỷ',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -22,8 +22,8 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://khacky.net/',
+          label: 'Dark/Light',
           position: 'right',
         },
       ],
@@ -45,19 +45,23 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Cộng Đồng',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Diễn Đàn RedPillVN',
+              href: 'https://forum.redpillvn.com/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Người Bạn Vô Hình',
+              href: 'https://www.facebook.com/invisiblepartner/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Vagabond',
+              href: 'https://www.facebook.com/pepeandlife/',
+            },
+            {
+              label: 'King Warrior Magician Lover',
+              href: 'https://www.facebook.com/kingwarriormagicianlover/',
             },
           ],
         },
